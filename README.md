@@ -1,4 +1,4 @@
-# sql-python-data-automation (SQL, Python y automatización de reportes)
+# sql-python-data-automation
 
 # SQL + Python Data Automation Project
 
